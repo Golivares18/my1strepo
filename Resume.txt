@@ -1,0 +1,41 @@
+Gregorio D. Olivares 
+(815) 514-8993 ⥊ Joliet, IL ⥊ grolivares2002@gmail.com
+
+OBJECTIVE
+Highly disciplined and dedicated problem solver, currently in the process of obtaining a bachelor’s degree in Computer Science from Lewis University. Demonstrates the ability to solve a technological related issue and find manners to improve it ultimately find a better solution and reach an end goal given. 
+
+EDUCATION
+Lewis University|Computer Science Bachelor of Science   Expected Fall 2025
+●Concentration in networking
+●GiveSomething Back Scholarship
+●Heritage Scholarship
+
+
+EXPERIENCE
+Data Systems Administrator 		February 2021 - Present
+United States Marine Corps | Fort Sheridan, IL
+
+●Create and rebuild domain controllers, exchange servers, and end devices digitally within a virtual machine using VMware with ESXi hosts on Windows OS.
+●Spreads data communications to various recipients over Internet Protocol (IP) based networks.
+●Tasked with providing internet to end devices using satellite communication. 
+	○Able to reach a satellite at a geostationary orbital position 22,000 miles from the surface of the equator and use the IP address provided to create a local domain.
+○Used IP routing from the satellite to a switch that provided the use of Microsoft Teams for an end user within a forest.
+●Create a Local Area Network (LAN) through using Cisco devices such as servers, routers, and switches.
+●Configure end devices to follow a specific network protocol via Static or Dynamic Host Configuration Protocol (DHCP)
+●Properly crimp long Cat5 cables via T-568A/568B with RJ45.
+●Use Active Directory or MMC to control a local domain to give users permissions using Group Policy Objects (GPO’s).
+○Windows Baseline Server 2019 and newer
+
+Best Buy					December 2021 – Present
+Triage Agent | Bolingbrook, IL
+
+•Computer diagnostic and repair
+oTroubleshoot returning computers coming from clients for software and hardware issues that they face.
+Return computers in a timely manner to ensure customer satisfaction.
+Diagnostics include:
+	•Re-imaging with the proper Operating System.
+	•Installing proper drivers to allow computer to function correctly.
+	•Ensuring internet connectivity both wirelessly and wired. 
+
+SKILLS/EXPERIENCE
+Java, Python | Secret Clearance | Spanish 
