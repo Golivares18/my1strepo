@@ -1,3 +1,8 @@
+/*
+/ Gregorio Olivares
+/ This is an assignment that will be meant for using INode to complete the Node class that will perform various methods and call another interface
+*/
+
 package m;
 
 import m.INode;
