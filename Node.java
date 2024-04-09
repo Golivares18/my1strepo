@@ -1,8 +1,10 @@
 /*
-/ Gregorio Olivares
-/ This is an assignment that will be meant for using INode to complete the Node class that will perform various methods and call another interface
-*/
-
+ * Gregorio Olivares
+ * Object Oriented Programming - cpsc24500 - Section 3
+ * 2024-03-23 || Assignment5
+ * The purpose of this code will be to use instance INode to be able to perform various methods on a 2 dimensional node
+ * 
+ */
 package m;
 
 import m.INode;
